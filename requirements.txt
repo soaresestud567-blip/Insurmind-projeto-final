@@ -1,0 +1,7 @@
+streamlit>=1.49
+openai>=2.0
+pymupdf>=1.26
+pytesseract>=0.3.13
+Pillow>=11.0
+python-dotenv>=1.0
+pandas>=2.2
